@@ -1,0 +1,14 @@
+#### solving final top#####
+F R U R' U' F'
+
+#####Solving Centre piece of the cube ######
+R U U R' U' R U' R'
+
+######Solving corners of the cube ######
+L U R U' L' U R' U'
+
+
+####FINAL EDGES############
+R U U R' U' R U' R'
+L U U L' U L U L'
+
